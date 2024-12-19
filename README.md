@@ -5,5 +5,5 @@ Working in:
   - Python
         - Working with AI software
   - Java
-- Reach me at: sohnjesse@gmail.com
+- Reach me at: sohnjessea@gmail.com
     
